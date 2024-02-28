@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        ""
-url:            "https://clearlab-sustech.github.io/SDM366-Sp24/"
+title:          SDM366 Optimal Control and Estimation
+description:    "SUSTech undergraduate course, teaching by Zhang Wei, CLEAR-LAB"
+baseurl:        "/SDM366-Sp24"
+url:            "https://clearlab-sustech.github.io"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+# google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Jude Guo
+  # url:          https://chester.how
+  email:        270964416@qq.com
 
 # Build settings
 markdown:       kramdown
