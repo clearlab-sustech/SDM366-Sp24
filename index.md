@@ -11,14 +11,14 @@ This is an undergraduate course opened by SUSTech SDIM CLEAR-LAB, teached by Pro
 
 ## Course Information
 
-**Course ID**: SDM 366
-**Course Name**: Optimal Control and Estimation
-**Credit**: 3.0	
-**Credit Hours**: 48.0
-**Classroom**: Classroom 401, Teaching Building One
-**Time**: Week 1-16, Tuesday 19:00 pm - 20:50 pm; Odd Week 1-15, Thursday 19:00 pm - 20:50 pm
-**Teacher**: Zhang Wei
-**SA**: Guo Junde(12332645@mail.sustech.edu.cn) Wang Dizhi
+- **Course ID**: SDM 366
+- **Course Name**: Optimal Control and Estimation
+- **Credit**: 3.0	
+- **Credit Hours**: 48.0
+- **Classroom**: Classroom 401, Teaching Building One
+- **Time**: Week 1-16, Tuesday 19:00 pm - 20:50 pm; Odd Week 1-15, Thursday 19:00 pm - 20:50 pm
+- **Teacher**: Zhang Wei
+- **SA**: Guo Junde(12332645@mail.sustech.edu.cn) Wang Dizhi
 
 ## Reference
 
