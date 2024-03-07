@@ -21,6 +21,6 @@ You can find all of the notes and homeworks for the Spring 2024 SDM366 course.
 
 ## Tutorials (Video Capture)
 
-- [Lec1 控制与机器学习的线性代数基础-1](https://www.bilibili.com/video/BV16v421r7bU/?spm_id_from=333.788)
+- [Lec 1: 控制与机器学习的线性代数基础](https://www.bilibili.com/video/BV16v421r7bU/?spm_id_from=333.788)
 - [Lec 2-1: 状态空间建模与例子 (Spring damper，PID，SensorNetwork，RNN）](https://www.bilibili.com/video/BV1Sv421r7HC/?spm_id_from=333.788)
-- [Lec1-2: 控制与机器学习的线性代数基础 (广义内积、投影、傅里叶级数）](https://www.bilibili.com/video/BV1xt421b7P5/?spm_id_from=333.788)
+- [Lec 1-2: 控制与机器学习的线性代数基础 (广义内积、投影、傅里叶级数）](https://www.bilibili.com/video/BV1xt421b7P5/?spm_id_from=333.788)
