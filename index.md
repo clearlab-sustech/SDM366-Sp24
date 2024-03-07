@@ -1,6 +1,7 @@
 ---
-title: Home
+title: SDM366
 layout: home
+nav_order: 1
 ---
 
 ### Course Introduction
