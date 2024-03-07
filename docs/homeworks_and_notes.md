@@ -4,7 +4,9 @@ title: Notes and Homeworks
 nav_order: 2
 ---
 
-You can find all of the notes and homeworks for the 2024 Spring course.
+# Spring 2024
+
+You can find all of the notes and homeworks for the Spring 2024 SDM366 course.
 
 ## Notes
 
