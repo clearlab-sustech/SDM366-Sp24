@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+# SDM366 Optimal Control and Estimation
+
 ## Course Introduction
 
 This is an undergraduate course opened by SUSTech SDIM CLEAR-LAB, teached by Prof. Zhang Wei. This course will introduce the students to the fundamental concepts and methods in modern control, especially optimal control and estimation theory. Topics include state-space modelling of dynamical systems, least square estimation and system identification, state-feedback and output-feedback controller design, optimal control, dynamic programming, Model predictive control, linear quadratic regulators, and Kalman filter. The course will also connect these control and estimation methods to applications in robotics, mechanical, electrical, and aerospace systems.
@@ -21,8 +23,10 @@ This is an undergraduate course opened by SUSTech SDIM CLEAR-LAB, teached by Pro
 - **Teacher**: Zhang Wei
 - **SA**: Guo Junde(12332645@mail.sustech.edu.cn) Wang Dizhi
 
+----
+
 ## Links
 
-[Clear-Lab](https://www.wzhanglab.site)
-[Course site](https://clearlab-sustech.github.io/SDM366-Sp24)
-[Bilibili](https://space.bilibili.com/474380277)
+- [Clear-Lab](https://www.wzhanglab.site)
+- [Course site](https://clearlab-sustech.github.io/SDM366-Sp24)
+- [Bilibili](https://space.bilibili.com/474380277)
