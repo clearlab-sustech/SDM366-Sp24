@@ -54,6 +54,7 @@ You can find all of the notes and homeworks for the Spring 2024 SDM366 course.
 - [HW1](https://github.com/clearlab-sustech/SDM366-Sp24/raw/master/assets/files/SDM_Optimal_Control_and_Estimation_HW1.pdf)
 - [HW2](https://github.com/clearlab-sustech/SDM366-Sp24/raw/master/assets/files/SDM_Optimal_Control_and_Estimation_HW2.pdf)
 - [HW3](https://github.com/clearlab-sustech/SDM366-Sp24/raw/master/assets/files/SDM_Optimal_Control_and_Estimation_HW3.pdf) [HW3 supplemental](https://github.com/clearlab-sustech/SDM366-Sp24/raw/master/assets/files/supplementalHW3.pdf)
+- [Final Project](https://github.com/clearlab-sustech/SDM366-Sp24/raw/master/assets/files/final_project.zip)
 
 
 ## Tutorials (Video Capture)
